@@ -41,8 +41,7 @@ python generate_github_wordcloud.py --user octocat
 A imagem será salva em `wordcloud/wordcloud.png`.
 
 ## Exemplo de resultado
-
-<img src="wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+<img width="2430" height="1230" alt="wordcloud" src="https://github.com/user-attachments/assets/11704a82-b138-47bc-bd74-96e2244e09b7" />
 
 ## Licença
 
